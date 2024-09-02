@@ -1,7 +1,7 @@
 env:
   # Get these values from the Firebase console
   - variable: NEXT_PUBLIC_FIREBASE_API_KEY
-    value: "AIzaSyAl2pSQsP5c9FaY9j8f8br7KYqaJQkyjBE"
+    value: ""
   - variable: NEXT_PUBLIC_FIREBASE_AUTH_DOMAIN
     value: "friendlyeats-codelab-3ddf9.firebaseapp.com"
   - variable: NEXT_PUBLIC_FIREBASE_PROJECT_ID
